@@ -4,7 +4,7 @@
       "id": 1,
       "title": "城市地标雕塑",
       "description": "位于城市中心的大型地标雕塑，高20米，采用不锈钢材质，展现城市的现代气息。",
-      "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=modern%20city%20landmark%20sculpture%20made%20of%20stainless%20steel&image_size=landscape_16_9",
+      "image": "images/project-1.jpg",
       "category": "城市雕塑",
       "year": 2023
     },
@@ -12,7 +12,7 @@
       "id": 2,
       "title": "公园主题雕塑",
       "description": "为城市公园设计的主题雕塑，融合了自然元素和人文精神，成为公园的焦点。",
-      "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=park%20theme%20sculpture%20with%20natural%20elements&image_size=landscape_16_9",
+      "image": "images/project-2.jpg",
       "category": "公园雕塑",
       "year": 2022
     },
@@ -20,7 +20,7 @@
       "id": 3,
       "title": "企业形象雕塑",
       "description": "为知名企业设计的形象雕塑，体现企业的文化理念和价值观。",
-      "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=corporate%20image%20sculpture%20modern%20style&image_size=landscape_16_9",
+      "image": "images/project-3.jpg",
       "category": "企业雕塑",
       "year": 2023
     },
@@ -28,7 +28,7 @@
       "id": 4,
       "title": "历史文化雕塑",
       "description": "以历史文化为主题的雕塑，展现了当地的历史底蕴和文化特色。",
-      "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=historical%20cultural%20sculpture%20traditional%20style&image_size=landscape_16_9",
+      "image": "images/project-4.jpg",
       "category": "文化雕塑",
       "year": 2021
     }
@@ -38,7 +38,7 @@
       "id": 1,
       "title": "City Landmark Sculpture",
       "description": "A large landmark sculpture located in the city center, 20 meters high, made of stainless steel, showcasing the modern atmosphere of the city.",
-      "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=modern%20city%20landmark%20sculpture%20made%20of%20stainless%20steel&image_size=landscape_16_9",
+      "image": "images/project-1.jpg",
       "category": "City Sculpture",
       "year": 2023
     },
@@ -46,7 +46,7 @@
       "id": 2,
       "title": "Park Theme Sculpture",
       "description": "A theme sculpture designed for the city park, integrating natural elements and humanistic spirit, becoming the focus of the park.",
-      "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=park%20theme%20sculpture%20with%20natural%20elements&image_size=landscape_16_9",
+      "image": "images/project-2.jpg",
       "category": "Park Sculpture",
       "year": 2022
     },
@@ -54,7 +54,7 @@
       "id": 3,
       "title": "Corporate Image Sculpture",
       "description": "An image sculpture designed for a well-known enterprise, reflecting the enterprise's cultural philosophy and values.",
-      "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=corporate%20image%20sculpture%20modern%20style&image_size=landscape_16_9",
+      "image": "images/project-3.jpg",
       "category": "Corporate Sculpture",
       "year": 2023
     },
@@ -62,7 +62,7 @@
       "id": 4,
       "title": "Historical Cultural Sculpture",
       "description": "A sculpture with historical and cultural themes, showcasing the local historical heritage and cultural characteristics.",
-      "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=historical%20cultural%20sculpture%20traditional%20style&image_size=landscape_16_9",
+      "image": "images/project-4.jpg",
       "category": "Cultural Sculpture",
       "year": 2021
     }

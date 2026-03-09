@@ -4,7 +4,7 @@
       "id": 1,
       "title": "抽象艺术摆件",
       "description": "采用优质青铜材质，手工制作的抽象艺术摆件，适合家居和办公室装饰。",
-      "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=abstract%20art%20sculpture%20bronze%20material&image_size=square",
+      "image": "images/artwork-1.jpg",
       "price": "¥2,999",
       "material": "青铜",
       "size": "30cm × 20cm × 40cm"
@@ -13,7 +13,7 @@
       "id": 2,
       "title": "现代简约雕塑",
       "description": "现代简约风格的雕塑作品，采用不锈钢材质，线条流畅，适合现代家居环境。",
-      "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=modern%20minimalist%20sculpture%20stainless%20steel&image_size=square",
+      "image": "images/artwork-2.jpg",
       "price": "¥1,899",
       "material": "不锈钢",
       "size": "25cm × 15cm × 35cm"
@@ -22,7 +22,7 @@
       "id": 3,
       "title": "传统工艺摆件",
       "description": "采用传统工艺制作的摆件，融合了中国传统文化元素，具有收藏价值。",
-      "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=traditional%20Chinese%20craft%20sculpture&image_size=square",
+      "image": "images/artwork-3.jpg",
       "price": "¥3,699",
       "material": "玉石",
       "size": "20cm × 20cm × 25cm"
@@ -31,7 +31,7 @@
       "id": 4,
       "title": "创意艺术雕塑",
       "description": "创意十足的艺术雕塑，采用混合材质，独特的设计风格，为空间增添艺术气息。",
-      "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=creative%20art%20sculpture%20mixed%20materials&image_size=square",
+      "image": "images/artwork-4.jpg",
       "price": "¥2,499",
       "material": "混合材质",
       "size": "35cm × 25cm × 30cm"
@@ -42,7 +42,7 @@
       "id": 1,
       "title": "Abstract Art Ornament",
       "description": "Handmade abstract art ornament made of high-quality bronze, suitable for home and office decoration.",
-      "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=abstract%20art%20sculpture%20bronze%20material&image_size=square",
+      "image": "images/artwork-1.jpg",
       "price": "$428",
       "material": "Bronze",
       "size": "30cm × 20cm × 40cm"
@@ -51,7 +51,7 @@
       "id": 2,
       "title": "Modern Minimalist Sculpture",
       "description": "Modern minimalist style sculpture made of stainless steel, with smooth lines, suitable for modern home environment.",
-      "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=modern%20minimalist%20sculpture%20stainless%20steel&image_size=square",
+      "image": "images/artwork-2.jpg",
       "price": "$270",
       "material": "Stainless Steel",
       "size": "25cm × 15cm × 35cm"
@@ -60,7 +60,7 @@
       "id": 3,
       "title": "Traditional Craft Ornament",
       "description": "Ornament made with traditional craftsmanship, integrating Chinese traditional cultural elements, with collection value.",
-      "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=traditional%20Chinese%20craft%20sculpture&image_size=square",
+      "image": "images/artwork-3.jpg",
       "price": "$527",
       "material": "Jade",
       "size": "20cm × 20cm × 25cm"
@@ -69,7 +69,7 @@
       "id": 4,
       "title": "Creative Art Sculpture",
       "description": "Creative art sculpture made of mixed materials, unique design style, adding artistic atmosphere to the space.",
-      "image": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=creative%20art%20sculpture%20mixed%20materials&image_size=square",
+      "image": "images/artwork-4.jpg",
       "price": "$356",
       "material": "Mixed Materials",
       "size": "35cm × 25cm × 30cm"
