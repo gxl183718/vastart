@@ -1,0 +1,30 @@
+{
+  "zh": {
+    "name": "万艺雕塑",
+    "description": "万艺雕塑是一家专业从事大型雕塑设计、制作、施工和安装的全流程服务公司。我们拥有一支经验丰富的设计团队和技术精湛的制作团队，致力于为客户打造独特、高质量的雕塑作品。",
+    "services": [
+      "雕塑设计",
+      "雕塑制作",
+      "雕塑施工",
+      "雕塑安装",
+      "雕塑维护"
+    ],
+    "history": "公司成立于2005年，经过多年的发展，已完成了众多国内外大型雕塑项目，赢得了客户的广泛认可和好评。",
+    "mission": "我们的使命是通过艺术创造，为城市和空间增添独特的文化魅力。",
+    "vision": "成为国际一流的雕塑艺术公司，引领行业发展。"
+  },
+  "en": {
+    "name": "Wanyi Sculpture",
+    "description": "Wanyi Sculpture is a professional company engaged in the whole process of large-scale sculpture design, production, construction and installation. We have an experienced design team and skilled production team, dedicated to creating unique, high-quality sculpture works for customers.",
+    "services": [
+      "Sculpture Design",
+      "Sculpture Production",
+      "Sculpture Construction",
+      "Sculpture Installation",
+      "Sculpture Maintenance"
+    ],
+    "history": "Founded in 2005, after years of development, the company has completed many large-scale sculpture projects at home and abroad, winning wide recognition and praise from customers.",
+    "mission": "Our mission is to add unique cultural charm to cities and spaces through artistic creation.",
+    "vision": "To become a world-class sculpture art company and lead the industry development."
+  }
+}
